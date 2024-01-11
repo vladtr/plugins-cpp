@@ -1,0 +1,5 @@
+add_subdirectory(accumulator)
+add_subdirectory(fubar)
+add_subdirectory(custom_factory_with_metadata)
+add_subdirectory(transactional_composition)
+
